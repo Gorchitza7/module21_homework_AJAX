@@ -1,0 +1,16 @@
+label, button,input {
+	display: block;
+	
+}
+
+input {
+	margin-bottom: 10px;
+}
+
+.pictureField {
+	width: 600px;
+}
+
+img {
+	width: 100%;
+}
